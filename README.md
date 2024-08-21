@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @AutoWorkshop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 # Auto Workshop - Professional Car Repair and Maintenance Services in Bahrain
 
 Welcome to **Auto Workshop**, your trusted destination for top-quality car repair and maintenance services in Bahrain. Our team of certified mechanics is dedicated to providing exceptional automotive care, ensuring your vehicle's performance and reliability.
@@ -45,9 +37,9 @@ For more information about our services, visit our official website: [Auto Works
 
 Got questions or need to book a service? Reach out to us:
 
-- **Phone**: +973-XXXXXXX
+- **Phone**: +97366946146
 - **Email**: info@autoworkshop.bh
-- **Location**: Road 123, Block 456, Manama, Bahrain
+- **Location**: Bahrain
 
 Follow us on social media:
 
